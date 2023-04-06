@@ -1,0 +1,12 @@
+[submodule "IOs-AirQuality"]
+	path = IOs-AirQuality
+	url = git@github.com:minhson0506/IOs-AirQuality.git
+[submodule "AndroidApp-AirQuality"]
+	path = AndroidApp-AirQuality
+	url = git@github.com:minhson0506/AndroidApp-AirQuality.git
+[submodule "AirQualityBackend"]
+	path = AirQualityBackend
+	url = git@github.com:minhson0506/AirQualityBackend.git
+[submodule "WebApp-AirQiality"]
+	path = WebApp-AirQiality
+	url = git@github.com:minhson0506/WebApp-AirQiality.git
