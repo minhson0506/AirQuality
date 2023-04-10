@@ -7,6 +7,6 @@
 [submodule "AirQualityBackend"]
 	path = AirQualityBackend
 	url = git@github.com:minhson0506/AirQualityBackend.git
-[submodule "WebApp-AirQiality"]
-	path = WebApp-AirQiality
-	url = git@github.com:minhson0506/WebApp-AirQiality.git
+[submodule "web-airquality"]
+	path = web-airquality
+	url = git@github.com:minhson0506/web-airquality.git
