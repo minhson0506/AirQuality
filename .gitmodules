@@ -10,3 +10,6 @@
 [submodule "web-airquality"]
 	path = web-airquality
 	url = git@github.com:minhson0506/web-airquality.git
+[submodule "airquality_hardware"]
+	path = airquality_hardware
+	url = git@github.com:minhson0506/airquality_hardware.git
